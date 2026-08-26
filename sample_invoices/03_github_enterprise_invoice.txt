@@ -1,0 +1,16 @@
+===========================================================
+INVOICE: GH-8491
+===========================================================
+Vendor: GitHub Inc.
+Invoice Date: 2026-08-22
+Due Date: 2026-09-22
+Currency: USD
+-----------------------------------------------------------
+LINE ITEMS:
+GitHub Team Subscription - 20 seats  20 x $   21.00 = $  420.00
+-----------------------------------------------------------
+Subtotal: $420.00
+Tax: $0.00
+Total Amount Due: $420.00
+===========================================================
+Notes: Expected Outcome: Needs Review / Discrepancy Analysis (Vendor alias GITHUB_COM_SUB_8491, 1-day clearance offset)

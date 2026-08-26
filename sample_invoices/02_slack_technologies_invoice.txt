@@ -1,0 +1,16 @@
+===========================================================
+INVOICE: SUB-2026-88
+===========================================================
+Vendor: Slack Technologies Inc.
+Invoice Date: 2026-08-16
+Due Date: 2026-08-30
+Currency: USD
+-----------------------------------------------------------
+LINE ITEMS:
+Slack Enterprise Grid (100 Active Users) 100 x $   12.50 = $ 1250.00
+-----------------------------------------------------------
+Subtotal: $1250.00
+Tax: $0.00
+Total Amount Due: $1250.00
+===========================================================
+Notes: Expected Outcome: Auto-Reconciled (Exact amount $1,250.00, reference SUB-2026-88)

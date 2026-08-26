@@ -1,0 +1,18 @@
+===========================================================
+INVOICE: INV-98213
+===========================================================
+Vendor: Amazon Web Services, Inc.
+Invoice Date: 2026-08-15
+Due Date: 2026-09-15
+Currency: USD
+-----------------------------------------------------------
+LINE ITEMS:
+Amazon EC2 Elastic Compute Cloud      1 x $  110.00 = $  110.00
+Amazon S3 Standard Storage            1 x $   20.00 = $   20.00
+AWS Data Transfer Out                 1 x $   12.50 = $   12.50
+-----------------------------------------------------------
+Subtotal: $142.50
+Tax: $0.00
+Total Amount Due: $142.50
+===========================================================
+Notes: Expected Outcome: Auto-Reconciled (Exact amount $142.50, 0-day diff, reference match)

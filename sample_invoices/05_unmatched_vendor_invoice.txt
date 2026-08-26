@@ -1,0 +1,17 @@
+===========================================================
+INVOICE: QAI-99014
+===========================================================
+Vendor: Quantum AI Hardware Labs Ltd
+Invoice Date: 2026-08-26
+Due Date: 2026-09-10
+Currency: USD
+-----------------------------------------------------------
+LINE ITEMS:
+Quantum Tensor Processor Unit rental (48 hrs)   2 x $ 4500.00 = $ 9000.00
+High Speed Quantum Interconnect Setup   1 x $ 1500.00 = $ 1500.00
+-----------------------------------------------------------
+Subtotal: $10500.00
+Tax: $0.00
+Total Amount Due: $10500.00
+===========================================================
+Notes: Expected Outcome: Failed (No bank transaction found for $10,500.00)

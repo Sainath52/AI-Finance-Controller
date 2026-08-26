@@ -1,0 +1,16 @@
+===========================================================
+INVOICE: ADB-77123
+===========================================================
+Vendor: Adobe Systems Incorporated
+Invoice Date: 2026-08-21
+Due Date: 2026-09-01
+Currency: USD
+-----------------------------------------------------------
+LINE ITEMS:
+Creative Cloud All Apps Single App License   1 x $   89.99 = $   89.99
+-----------------------------------------------------------
+Subtotal: $89.99
+Tax: $0.00
+Total Amount Due: $89.99
+===========================================================
+Notes: Expected Outcome: Auto-Reconciled (Fuzzy vendor match > 85%, amount $89.99)
